@@ -1,6 +1,8 @@
 # WPWS (WhatsApp Without Saving Contact)
 Create WhatsApp chat without saving contact
 
+<img src="https://i.imgur.com/Qo99eJW.png" width="350" title="ios">
+
 ## Install :gear:
 Install all dependencies
 
